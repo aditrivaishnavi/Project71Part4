@@ -1,0 +1,30 @@
+html {
+    scroll-behavior: smooth;
+    
+}
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    font: 1rem/1.5 var(--font-family-sans-serif);
+}
+
+img {
+    image-orientation: center;
+}
+
+marquee {
+    font-size: 20px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 100px;
+    margin: 8px auto;
+}
+a {
+    text-decoration: none;
+    text-shadow: 2px 2px gainsboro;
+    color: var(--blue);
+}
